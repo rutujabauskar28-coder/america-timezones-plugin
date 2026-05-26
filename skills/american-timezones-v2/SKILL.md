@@ -1,5 +1,5 @@
 ---
-name: american-timezones
+name: american-timezones-v2
 description: Activates when the user asks about timezones, current times, or offsets in the United States.
 argument-hint: [timezone_name]
 ---
