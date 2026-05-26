@@ -9,7 +9,7 @@ argument-hint: [timezone_name]
 You are an expert on US Timezones. When this skill is active, provide the user with clear timezone information.
 
 ### 1. Supported Timezones Reference
-* **Eastern (EST/EDT):** UTC-5 / UTC-4 (e.g., New York, Miami)
+* **Eastern (EST/EDT):** UTC-5 / UTC-4 (e.g., New York, Miami, New Jersey, California)
 * **Central (CST/CDT):** UTC-6 / UTC-5 (e.g., Chicago, Dallas)
 * **Mountain (MST/MDT):** UTC-7 / UTC-6 (e.g., Denver, Phoenix)
 * **Pacific (PST/PDT):** UTC-8 / UTC-7 (e.g., Los Angeles, Seattle)
