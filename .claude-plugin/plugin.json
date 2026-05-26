@@ -1,5 +1,5 @@
 {
-  "name": "america-timezones-v2",
-  "version": "2.0.0",
-  "description": "[EXPERIMENTAL V2] Upgraded tracking structures"
+  "name": "america-timezones-v1",
+  "version": "1.0.0",
+  "description": "Provides information and offsets across all major American timezones."
 }
